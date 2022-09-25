@@ -1,11 +1,10 @@
 import React from 'react'
-// import Tabs from "./component/TabMenu/Tabs";
-import GalleryReact from "./component/TabMenu/GalleryReact";
+import Field from './components/Field'
 
 const App = () => {
   return (
     <>
-     <GalleryReact />
+      <Field/>
     </>
   )
 }
